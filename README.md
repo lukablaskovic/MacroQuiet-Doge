@@ -1,2 +1,2 @@
 # FrostwareStudios-Doge
-Doge game, made in 2 weeks July 2021. First FrostwareStudios game ever created!
+Doge game, made in 2 weeks July 2021. Our first game ever created using Unity!
