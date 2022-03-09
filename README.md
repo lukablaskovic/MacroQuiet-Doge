@@ -6,4 +6,4 @@ GAME VERSION: v1.1
 Download link can be found in releases tab.
 
 *We did not use Git version control at the time. Instead, full project was uploaded to Github.
-![Main menu](https://github.com/[lukablaskovic]/[MacroQuiet-Doge]/blob/[branch]/doge.png?raw=true)
+![Main menu](https://github.com/[lukablaskovic]/[MacroQuiet-Doge]/blob/[main]/doge.png?raw=true)
