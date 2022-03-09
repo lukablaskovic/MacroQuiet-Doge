@@ -4,4 +4,4 @@ Game contains 3 levels and is currently in v1.1
 
 Download link can be found in releases tab.
 
-*We did not use version control. Instead, full project was uploaded to Github.
+*We did not use Git version control at the time. Instead, full project was uploaded to Github.
